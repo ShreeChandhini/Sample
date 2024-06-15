@@ -195,7 +195,7 @@ public class Conditions {
 		String ch="character";
 		char[] br=ch.toCharArray();
 		System.out.println(br[1]);
-		
+		System.out.println("---------------------------------------------");
 		
 	}
 }
